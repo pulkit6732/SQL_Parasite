@@ -15,6 +15,7 @@ python3 sql_injection_tool.py <url> <parameter> [--proxy <proxy>]
 
 ##NOTE 
 Make sure to edit the payloads.py as per your usage i will make a repo for the payloads for every vulnnebirity detection  
+You can edit the files if you having any error as per your system usage 
 
 #Example 
 python3 sql_injection_tool.py "http://example.com/page.php" "id" 
